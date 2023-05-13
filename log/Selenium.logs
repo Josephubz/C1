@@ -1,0 +1,4 @@
+01:17:15,586  INFO Cucumber<strong>{1}</strong>:43 - ********** Launching Browser **********
+01:17:15,776  INFO Cucumber<strong>{1}</strong>:60 - ********** Launching URL **********
+01:17:18,730  INFO Cucumber<strong>{1}</strong>:66 - ********** Setting Email and Password **********
+01:17:19,391  INFO Cucumber<strong>{1}</strong>:74 - ********** Click on Log In Button **********
